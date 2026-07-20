@@ -4,18 +4,8 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name | Eabel Biju John|
+| Register Number |VJC24CS073|
+| GitHub Username | eabel-26|
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
-
-## Repository Structure
-
-- Assignments
-- NetworkLab
-- PacketTracer
-- MiniProject
-- Resources
-
-Upload all course work to the appropriate folders.
